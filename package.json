@@ -1,0 +1,16 @@
+{
+  "name": "abstract-event-target",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "predoc": "./node_modules/.bin/esdoc",
+    "doc": "node serve_docs"
+  },
+  "author": "Lincoln Howard",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "esdoc": "^0.5.2"
+  }
+}
